@@ -1,4 +1,4 @@
-Este repositorio fue creado para el mantenimiento de mi portafolio personal.
+Este repositorio fue creado para la creación y el mantenimiento de mi portafolio personal.
 
 Esto utilizando una plantilla.
 
